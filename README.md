@@ -53,6 +53,7 @@ The GUI window will open automatically.
 |------------|------------------|
 | Python      | 3.6 or above     |
 | Tkinter     | Comes pre-installed with Python |
+
 ✅ Works on Windows, macOS, and Linux
 
 ---
